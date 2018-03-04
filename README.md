@@ -1,2 +1,2 @@
-# hellow-word
+# hellow-world
 exercise
