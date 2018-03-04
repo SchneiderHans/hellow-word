@@ -1,2 +1,2 @@
 # hellow-word
-exercise
+exercise - this is only a first test
